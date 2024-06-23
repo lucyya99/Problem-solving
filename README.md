@@ -1,2 +1,2 @@
-# Problem-solving
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
+## Problem-solving
+백준, LeetCode, 프로그래머스 문제 풀이 레포입니다!
